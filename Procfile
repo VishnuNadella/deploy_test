@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run dasv2.py
+web: sh setup.sh && streamlit run das_v2.py
